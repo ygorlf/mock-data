@@ -78,68 +78,94 @@
   ],
   "shows": [
     {
-      "name": "24 Hours",
+      "title": "24 Hours",
       "year": 2001
     },
     {
-      "name": "Blindspot",
+      "title": "Blindspot",
       "year": 2015
     },
     {
-      "name": "Breaking Bad",
+      "title": "Breaking Bad",
       "year": 2008
     },
     {
-      "name": "Friends",
+      "title": "Friends",
       "year": 1994
     },
     {
-      "name": "Game of Thrones",
+      "title": "Game of Thrones",
       "year": 2011
     },
     {
-      "name": "La Casa de Papel",
+      "title": "La Casa de Papel",
       "year": 2017
     },
     {
-      "name": "Mad Men",
+      "title": "Mad Men",
       "year": 2007
     },
     {
-      "name": "Mr Robot",
+      "title": "Mr Robot",
       "year": 2015
     },
     {
-      "name": "Peaky Blinders",
+      "title": "Peaky Blinders",
       "year": 2013
     },
     {
-      "name": "Prison Break",
+      "title": "Prison Break",
       "year": 2005
     },
     {
-      "name": "Shooter",
+      "title": "Shooter",
       "year": 2016
     },
     {
-      "name": "SmallVille",
+      "title": "SmallVille",
       "year": 2001
     },
     {
-      "name": "The Big Bang Theory",
+      "title": "The Big Bang Theory",
       "year": 2007
     },
     {
-      "name": "The Fresh Prince Of Bel Air",
+      "title": "The Fresh Prince Of Bel Air",
       "year": 1990
     },
     {
-      "name": "The Middle",
+      "title": "The Middle",
       "year": 2009
     },
     {
-      "name": "The Mentalist",
+      "title": "The Mentalist",
       "year": 2008
+    }
+  ],
+  "cities": [
+    {
+      "name": "São Paulo",
+      "country": "Brazil"
+    },
+    {
+      "name": "Berlim",
+      "country": "Germany"
+    },
+    {
+      "name": "Lisbon",
+      "country": "Portugal"
+    },
+    {
+      "name": "Miami",
+      "country": "USA"
+    },
+    {
+      "name": "Paris",
+      "country": "France"
+    },
+    {
+      "name": "Rio",
+      "country": "Brazil"
     }
   ]
 }
