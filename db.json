@@ -11,9 +11,9 @@
       "year": 2011
     },
     {
-      "title": "21",
+      "title": "25",
       "artist": "Adele",
-      "year": 2011
+      "year": 2015
     },
     {
       "title": "Traveller",
@@ -74,6 +74,72 @@
       "title": "Bocas Ordinárias",
       "artist": "Charlie Brown Jr",
       "year": 2002
+    }
+  ],
+  "shows": [
+    {
+      "name": "24 Hours",
+      "year": 2001
+    },
+    {
+      "name": "Blindspot",
+      "year": 2015
+    },
+    {
+      "name": "Breaking Bad",
+      "year": 2008
+    },
+    {
+      "name": "Friends",
+      "year": 1994
+    },
+    {
+      "name": "Game of Thrones",
+      "year": 2011
+    },
+    {
+      "name": "La Casa de Papel",
+      "year": 2017
+    },
+    {
+      "name": "Mad Men",
+      "year": 2007
+    },
+    {
+      "name": "Mr Robot",
+      "year": 2015
+    },
+    {
+      "name": "Peaky Blinders",
+      "year": 2013
+    },
+    {
+      "name": "Prison Break",
+      "year": 2005
+    },
+    {
+      "name": "Shooter",
+      "year": 2016
+    },
+    {
+      "name": "SmallVille",
+      "year": 2001
+    },
+    {
+      "name": "The Big Bang Theory",
+      "year": 2007
+    },
+    {
+      "name": "The Fresh Prince Of Bel Air",
+      "year": 1990
+    },
+    {
+      "name": "The Middle",
+      "year": 2009
+    },
+    {
+      "name": "The Mentalist",
+      "year": 2008
     }
   ]
 }
